@@ -53,7 +53,6 @@ In `Gemfile`, add `gem "thin", ">= 1.4.1"` will change the default server to *Th
 `rails generate generator GeneratorName`
 - generate generator in `lib/generators/<generator_name>` folder
 - a source root for the templates
-- 
 
 ### Dependencies
 In `Gemfile`, add `gem "rspec-rails"` will change:
